@@ -2,7 +2,7 @@
     "Title_Configs":[
         {
 
-           "name": "Your_Name_here",
+           "name": "tzutike",
            "servername": "Your_Server_Name",
            "program": "Your_Program_Name"
 
@@ -12,8 +12,8 @@
     "Webhook_config":[
         {
 
-          "Bot_Name": "YourBotName",
-          "Bot_Avatar": "https://media.discordapp.net/attachments/818904459681071126/1008774401648505013/goat6.jpg"
+          "Bot_Name": "Spidey Bot",
+          "Bot_Avatar": "https://discord.com/api/webhooks/1421159309810602197/G75tafW1GvPCi4VUqgGQ8Cxg_fBDdyEmCvgesSEvaZTMkibQ5Ed48s4gA42elcaBmu3X"
   
         }
     ],
@@ -28,3 +28,4 @@
 
 
 }
+
